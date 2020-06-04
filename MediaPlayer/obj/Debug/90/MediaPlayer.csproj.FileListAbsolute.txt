@@ -1,0 +1,3 @@
+C:\Users\aji.pangestu\source\repos\MediaPlayer\MediaPlayer\obj\Debug\90\MonoAndroid,Version=v9.0.AssemblyAttributes.cs
+C:\Users\aji.pangestu\source\repos\MediaPlayer\MediaPlayer\obj\Debug\90\MediaPlayer.nuget.stamp
+C:\Users\aji.pangestu\source\repos\MediaPlayer\MediaPlayer\obj\Debug\90\MediaPlayer.csprojAssemblyReference.cache
